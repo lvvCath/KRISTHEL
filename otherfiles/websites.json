@@ -1,0 +1,48 @@
+{
+	"google": [
+		"https://www.google.com/"
+	],
+	"gmail": [
+		"https://mail.google.com/mail/u/0/#inbox"
+	],
+	"instagram": [
+		"https://www.instagram.com/?hl=en"
+	],
+	"facebook": [
+		"https://www.facebook.com/"
+	],
+	"messenger": [
+		"https://www.messenger.com/"
+	],
+	"telegram": [
+		"https://telegram.org/"
+	],
+	"tiktok": [
+		"https://www.tiktok.com/"
+	],
+	"reddit": [
+		"https://www.reddit.com/"
+	],
+	"pinterest": [
+		"https://www.pinterest.com/"
+	],
+	"linkedin": [
+		"https://www.linkedin.com/"
+	],
+	"twitter": [
+		"https://twitter.com/LOGIN"
+	],
+	"github": [
+		"https://github.com/"
+	],
+	"youtube": [
+		"https://www.youtube.com/"
+	],
+	"geeksforgeeks":[
+		"https://www.geeksforgeeks.org/"
+	],
+	"stack overflow":[
+		"https://stackoverflow.com/"
+	]
+
+}
