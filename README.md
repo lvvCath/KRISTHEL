@@ -1,6 +1,5 @@
 # AIVirtualAssistant-KRISTHEL
-CS 403 Intelligent Agents Project 
-<br/><br/>
+
 Application Name: KRISTHEL <br/>
 Python version: 3.10 <br/>
 IDE: PyCharm <br/>
