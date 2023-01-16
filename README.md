@@ -4,6 +4,7 @@ CS 403 Intelligent Agents Project
 Application Name: KRISTHEL <br/>
 Python version: 3.10 <br/>
 IDE: PyCharm <br/>
-Date Finished: 1/12/2022 <br/>
+Date Created: 12/21/2022 <br/>
+Date Finished: 1/12/2022  <br/>
 Type: Speech Recognition Virtual Assistant <br/>
 OS: Windows
